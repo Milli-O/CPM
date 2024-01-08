@@ -1,5 +1,7 @@
 # CPM
 
+## To access the videos, kindly \textbf{view raw}
+
 This folder contains three different simulations of cellular potts model. 
 
 CPM.mp4 is a cellular potts model with a rectangular cell of cell width = 100 and cell height = 3. Thus, the cell size is 300. Through the simulation, the cell fragments and assemble as a rectangular cell. The fragmentation of the cell is probably due to the absence of cell shape definition in the total Hamiltonian energy. The total Hamiltonian is defined with only cell size and adhesion.

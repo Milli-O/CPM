@@ -1,6 +1,6 @@
 # CPM
 
-## To access the videos, kindly \textbf{view raw}
+## To access the videos, kindly "view raw"
 
 This folder contains three different simulations of cellular potts model. 
 
